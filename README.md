@@ -27,11 +27,3 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-This README includes:
-1. One-time setup instructions
-2. Daily development workflow
-3. Visual project structure
-4. Database management
-5. Command cheatsheet
-6. Basic deployment notes
-7. Clean Markdown formatting
